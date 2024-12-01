@@ -1,3 +1,3 @@
 theme: minima
 include:
-  - assets/css/style.css
+  - style.css
