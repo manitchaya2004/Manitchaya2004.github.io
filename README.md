@@ -1,5 +1,7 @@
-# <span style="color: pink;">Manitchaya</span>
-- <span style="color: hotpink;">manitchaya</span>
-  - <span style="color: deeppink;">punch</span>
+<div style="text-align: center;">
+# Manitchaya 👩🏻
+  
+------------ Welcome to My Info Page 📚 ------------
+  <img src="IMG_5122.jpeg" alt="punch" width="300" />
+</div>
 
-![punch](IMG_5122.jpeg)
