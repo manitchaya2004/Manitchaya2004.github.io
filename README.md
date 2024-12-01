@@ -1,11 +1,9 @@
 # Welcome to My Info Page 📚 
 <div style="text-align: center;">
  <img src="IMG_5122.jpeg" alt="punch" width="300" />
- 
------------------------------------------------------------------------
- 
- <h3>---------------------- About Me 💁🏻‍♀️ ----------------------</h3>
 </div>
+ <h3>---------------------- About Me 💁🏻‍♀️ ----------------------</h3>
+
 
 - Introduction 👩🏻‍💻
  - Name : Manitchaya Benjajerdsiri (6530200380)
