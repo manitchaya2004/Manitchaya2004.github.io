@@ -6,7 +6,7 @@
 -----------------------------------------------------------------------
 
 -🖇️ Information 
- - Name : Manitchaya Benjajerdsiri (6530200380)
+ - Name : Manitchaya Benjajerdsiri
  - Nickname : Punch
  - Studies : Computer Science (S05)
    
