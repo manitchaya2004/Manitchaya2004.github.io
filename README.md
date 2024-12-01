@@ -14,3 +14,7 @@
 -----------------------------------------------------------------------
 
 - URL : [https://manitchaya2004.github.io/6530200380.github.io/](https://manitchaya2004.github.io/6530200380.github.io/)
+
+<a href="https://example.com" target="_blank" style="display: inline-block; background-color: #ff69b4; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; font-size: 16px;">
+  ไปยัง Example
+</a>
