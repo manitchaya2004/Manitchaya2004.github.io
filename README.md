@@ -8,7 +8,7 @@
 - Introduction 👩🏻‍💻
   - Name : Manitchaya Benjajerdsiri (6530200380)
   - NickName : Punch
-  - tel : 0984-464-9514
+  - Tel : 0984-464-9514
   - Love to listening to music veryๆ <3
 
 ----------------------------------------------------------------------
@@ -19,4 +19,3 @@
 -----------------------------------------------------------------------
 
 - URL : [https://manitchaya2004.github.io/6530200380.github.io/](https://manitchaya2004.github.io/6530200380.github.io/)
-- [View on Github](https://github.com/manitchaya2004/6530200380.github.io)
