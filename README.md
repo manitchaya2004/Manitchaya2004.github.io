@@ -6,15 +6,17 @@
 
 
 - Introduction 👩🏻‍💻
- - Name : Manitchaya Benjajerdsiri (6530200380)
- - NickName : Punch
- - Studies : Computer Science (S05) At KUSRC
- - Love to listening to music veryๆ <3
-   
+  - Name : Manitchaya Benjajerdsiri (6530200380)
+  - NickName : Punch
+  - tel : 0984-464-9514
+  - Love to listening to music veryๆ <3
+
+----------------------------------------------------------------------
+
+- Education 🎓
+  - Studies : Computer Science (S05) at KUSRC
+  
 -----------------------------------------------------------------------
 
 - URL : [https://manitchaya2004.github.io/6530200380.github.io/](https://manitchaya2004.github.io/6530200380.github.io/)
-
-<a href="https://example.com" target="_blank" style="display: inline-block; background-color: #ff69b4; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px; font-size: 16px;">
-  ไปยัง Example
-</a>
+- [View on Github](https://github.com/manitchaya2004/6530200380.github.io)
