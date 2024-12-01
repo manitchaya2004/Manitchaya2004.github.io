@@ -2,20 +2,25 @@
 <div style="text-align: center;">
  <img src="IMG_5122.jpeg" alt="punch" width="300" />
 </div>
- <h3>---------------------- About Me 💁🏻‍♀️ ----------------------</h3>
+ <h3>---------------------- About Me 🪪 ----------------------</h3>
 
 
-- Introduction 👩🏻‍💻
-  - Name : Manitchaya Benjajerdsiri (6530200380)
-  - NickName : Punch
-  - Tel : 0984-464-9514
+- Introduction 🧸✨
+  - Name : Manitchaya Benjajerdsiri 
+  - Nickname : Punch 
+  - Age : 20 
   - Love to listening to music veryๆ <3
 
 ----------------------------------------------------------------------
 
 - Education 🎓
-  - Studies : Computer Science (S05) at KUSRC
+  - Major : Computer Science (S05) 
+  - Studies : Kasetsart University Sriracha Campus
   
 -----------------------------------------------------------------------
+
+- Contract ☎️
+  - Email : manitchaya.b@ku.th
+  - Tel : 0984649514
 
 - URL : [https://manitchaya2004.github.io/6530200380.github.io/](https://manitchaya2004.github.io/6530200380.github.io/)
