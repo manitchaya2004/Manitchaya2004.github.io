@@ -23,4 +23,4 @@
   - Email : manitchaya.b@ku.th
   - Tel : 0984649514
 
-- URL : [https://manitchaya2004.github.io/6530200380.github.io/](https://manitchaya2004.github.io/6530200380.github.io/)
+- URL : [https://manitchaya2004.github.io](https://manitchaya2004.github.io)
