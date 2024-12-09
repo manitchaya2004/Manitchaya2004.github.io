@@ -2,7 +2,8 @@
 <div style="text-align: center;">
  <img src="IMG_5122.jpeg" alt="punch" width="300" />
 </div>
- <h3>---------------------- About Me 🪪 ----------------------</h3>
+
+### ---------------------- About Me 🪪 ----------------------
 
 
 - Introduction 🧸✨
