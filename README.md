@@ -1,7 +1,6 @@
 # Welcome to My Info Page 📚 
-<div style="text-align: center;">
- ![punch](6530200380/IMG_5122.jpeg)
-</div>
+ 
+![punch](6530200380/IMG_5122.jpeg)
 
 ### ---------------------- About Me 🪪 ----------------------
 
