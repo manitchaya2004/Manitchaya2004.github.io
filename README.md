@@ -1,6 +1,6 @@
 # Welcome to My Info Page 📚 
  
-![punch](6530200380/IMG_5122.jpeg)
+![punch](images/IMG_5122.jpeg)
 
 ### ---------------------- About Me 🪪 ----------------------
 
