@@ -8,6 +8,6 @@
 
 
 ### ออกแบบ E-Card ด้วย Canva และซ่อนข้อความผ่าน Steganography
-![e-card][]
+![e-card](images/XMas.png)
 
 
