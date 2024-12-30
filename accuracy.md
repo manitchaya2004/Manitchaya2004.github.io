@@ -1,6 +1,6 @@
 # Accuracy 
 
-### Defination 
+### Definition 
 - Data accuracy measures the correctness and completeness of specific data. Essentially, you’re evaluating how much the information accurately reflects the event or object described.
 
 - source : [ovaledge](https://www.ovaledge.com/blog/data-quality-metrics)
