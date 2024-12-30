@@ -1,10 +1,10 @@
 # Accuracy 
----
 
 ### Defination 
 - Data accuracy measures the correctness and completeness of specific data. Essentially, you’re evaluating how much the information accurately reflects the event or object described.
 
-- source : ![ovaledge](https://www.ovaledge.com/blog/data-quality-metrics)
+- source : [ovaledge](https://www.ovaledge.com/blog/data-quality-metrics)
+  
 ---
 ### ChatGPT
 - meaning : ความถูกต้องของข้อมูล (Data accuracy) เป็นการวัดความถูกต้องและความครบถ้วนสมบูรณ์ของข้อมูลที่กำหนดไว้ โดยหลักแล้ว เป็นการประเมินว่าข้อมูลสะท้อนถึงเหตุการณ์หรือวัตถุที่อธิบายไว้อย่างถูกต้องมากเพียงใด
