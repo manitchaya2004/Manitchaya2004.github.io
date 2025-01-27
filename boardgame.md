@@ -6,3 +6,6 @@
   - เวลา: 15:00 น.
   - สถานที่: อาคาร 24 คณะพานิชนาวี
     
+
+- Member
+  [https://manitchaya2004.github.io/boradgame](https://manitchaya2004.github.io/boradgame)
