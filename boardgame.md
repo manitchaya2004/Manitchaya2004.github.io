@@ -8,4 +8,4 @@
     
 
 - Member
-  [https://manitchaya2004.github.io/boradgame](https://manitchaya2004.github.io/boradgame)
+  [Panumas cha](https://manitchaya2004.github.io/boradgame)
