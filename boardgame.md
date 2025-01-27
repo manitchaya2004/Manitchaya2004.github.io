@@ -8,4 +8,8 @@
     
 
 - Member
-  [Panumas cha](https://manitchaya2004.github.io/boardgame)
+  - [Teerakorn](https://manitchaya2004.github.io/boardgame)
+  - [Panumas](https://manitchaya2004.github.io/boardgame)
+  - [Auksara](https://manitchaya2004.github.io/boardgame)
+  - [Addeen]([https://manitchaya2004.github.io/boardgame](https://itzdeenzxx.github.io/boardgame?fbclid=IwY2xjawIEfFZleHRuA2FlbQIxMAABHXnFgb9osYmgJT3cxNv-3cTJfk54pL4D2MWWbKeBc9eMIZ7Yfj1krzwsow_aem_71N5gZatXJY4xnPeJEzLvQ))
+  
