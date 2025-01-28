@@ -1,7 +1,7 @@
 <style>
   .row {
     display: flex; /* ใช้ Flexbox เพื่อจัดแถว */
-    justify-content: space-between; /* จัดระยะห่างระหว่างรูป */
+    justify-content: center; /* จัดระยะห่างระหว่างรูป */
   }
 
   #img01, #img02 {
@@ -9,7 +9,7 @@
   }
 
   img {
-    height: 200px; /* กำหนดความสูงของรูป */
+    height: 300px; /* กำหนดความสูงของรูป */
   }
 </style>
 
