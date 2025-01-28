@@ -1,18 +1,4 @@
-<style>
-  .row {
-    display: flex;
-    justify-content: space-between; /* จัดระยะห่างระหว่างรูปภาพ */
-  }
 
-  #img01, #img02 {
-    margin-top: 100px;
-  }
-
-  img {
-    height: 500px;
-    width: 500px:
-  }
-</style>
 
 <h1>Security Control</h1>
 <h2>Scan your face</h2>
@@ -25,10 +11,10 @@
 <div class="container">
   <div class="row">
     <div id="img01">
-      <img src="images/security/scanface.jpg" alt="Scanning Face for Security">
+      <img src="images/security/scanface.jpg" alt="Scanning Face for Security" style="height:500px;">
     </div>
     <div id="img02">
-      <img src="images/security/me.jpg" alt="Scanning Face for Security">
+      <img src="images/security/me.jpg" alt="Scanning Face for Security" style="height:500px;">
     </div>
   </div>
 </div>
