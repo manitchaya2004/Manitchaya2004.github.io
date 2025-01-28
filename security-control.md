@@ -11,10 +11,10 @@
 <div class="container">
   <div class="row">
     <div id="img01">
-      <img src="images/security/scanface.jpg" alt="Scanning Face for Security" style="height:500px;">
+      <img src="images/security/scanface.jpg" alt="Scanning Face for Security" style="height:300px;">
     </div>
     <div id="img02">
-      <img src="images/security/me.jpg" alt="Scanning Face for Security" style="height:500px;">
+      <img src="images/security/me.jpg" alt="Scanning Face for Security" style="height:300px;">
     </div>
   </div>
 </div>
