@@ -8,10 +8,10 @@
   }
 </style>
 
-## Scan your face 
- - Location : หอพัก U-city
+## Scan your face 👱‍♀️
+ - Location : หอพัก U-city 🏠🚪
  - Type of Security Controls : Technical Control
- - Control Function : Preventative
+ - Control Function : Preventative 📷⛔️
 
 
 <div class="container">
